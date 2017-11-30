@@ -1,11 +1,12 @@
+
 .stroke {
   fill: none;
   stroke: #000;
-  stroke-width: 3px;
+  stroke-width: 0px;
 }
 
 .fill {
-  fill: #fff;
+  fill: #000;
 }
 
 .graticule {
@@ -16,7 +17,7 @@
 }
 
 .land {
-  fill: #222;
+  fill: #086A87;
 }
 
 .boundary {
